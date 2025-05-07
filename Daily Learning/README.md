@@ -3,9 +3,9 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Novels 
 * [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
-* * [*Atlas Shrugged*](https://en.wikipedia.org/wiki/Atlas_Shrugged)
-  * * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Philosphy*)
-    * ["Who is John Galt?"](https://en.wikipedia.org/wiki/John_Galt)
+ * [*Atlas Shrugged*](https://en.wikipedia.org/wiki/Atlas_Shrugged)
+   * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Philosphy*)
+   * ["Who is John Galt?"](https://en.wikipedia.org/wiki/John_Galt)
  
 ## Philosphy
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
