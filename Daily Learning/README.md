@@ -8,4 +8,5 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
     * ["Who is John Galt?"](https://en.wikipedia.org/wiki/John_Galt)
  
 ## Philosphy
+* [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
