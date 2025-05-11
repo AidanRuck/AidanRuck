@@ -14,5 +14,6 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
  
 ## Philosphy
 * [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
+* [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
 * [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
