@@ -20,3 +20,6 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
 * [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
+
+## Science
+* [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
