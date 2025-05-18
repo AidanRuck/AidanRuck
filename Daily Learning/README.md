@@ -18,6 +18,9 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [*Atlas Shrugged*](https://en.wikipedia.org/wiki/Atlas_Shrugged)
     * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Philosphy*)
     * ["Who is John Galt?"](https://en.wikipedia.org/wiki/John_Galt)
+* [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac)
+  * [*On the Road*](https://en.wikipedia.org/wiki/On_the_Road)
+    * [The Beat Generation](https://en.wikipedia.org/wiki/Beat_Generation)  
  
 ## Philosphy
 * [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
