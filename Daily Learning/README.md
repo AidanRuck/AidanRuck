@@ -32,5 +32,6 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 
 ## Theology
+* [Sikhism](https://en.wikipedia.org/wiki/Sikhism)
 * [Taoism](https://en.wikipedia.org/wiki/Taoism)
   * [Self-Cultivation](https://en.wikipedia.org/wiki/Self-cultivation)
