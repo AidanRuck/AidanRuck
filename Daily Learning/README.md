@@ -29,6 +29,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
 
 ## Science
+* [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 
 ## Theology
