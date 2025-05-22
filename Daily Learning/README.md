@@ -31,8 +31,9 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
 
-## Science
+## Technology
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
+* [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 
 ## Theology
