@@ -35,6 +35,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
+* [Market fragmentation](https://en.wikipedia.org/wiki/Market_fragmentation)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 
 ## Theology
