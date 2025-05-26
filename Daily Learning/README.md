@@ -37,6 +37,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
 * [Market fragmentation](https://en.wikipedia.org/wiki/Market_fragmentation)
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
+* [Vehicle-to-everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 
 ## Theology
