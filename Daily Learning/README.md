@@ -37,6 +37,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
 
 ## Technology
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
