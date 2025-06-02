@@ -38,6 +38,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Technology
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Cryptographic hash function (CHF)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
