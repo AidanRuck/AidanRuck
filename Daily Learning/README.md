@@ -46,6 +46,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
 * [Market fragmentation](https://en.wikipedia.org/wiki/Market_fragmentation)
 * [Near-field communication (NFC)](https://en.wikipedia.org/wiki/Near-field_communication)
+* [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
 * [Vehicle-to-everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
