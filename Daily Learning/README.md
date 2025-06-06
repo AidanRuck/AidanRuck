@@ -45,6 +45,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
 * [Market fragmentation](https://en.wikipedia.org/wiki/Market_fragmentation)
+* [Message authentication code (MAC)](https://en.wikipedia.org/wiki/Message_authentication_code)
 * [Near-field communication (NFC)](https://en.wikipedia.org/wiki/Near-field_communication)
 * [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
