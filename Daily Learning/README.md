@@ -42,6 +42,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Cryptographic hash function (CHF)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
+* [Denial-of-service attack (DoS Attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
