@@ -50,6 +50,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Medium access control address (MAC address)](https://en.wikipedia.org/wiki/MAC_address)
 * [Message authentication code (MAC)](https://en.wikipedia.org/wiki/Message_authentication_code)
 * [Near-field communication (NFC)](https://en.wikipedia.org/wiki/Near-field_communication)
+* [Payment gateway](https://en.wikipedia.org/wiki/Payment_gateway)
 * [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
 * [Vehicle-to-everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
