@@ -4,6 +4,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 ## Astronomy
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
+* [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 
 ## Biology
 * [pH-sensitive polymers](https://en.wikipedia.org/wiki/PH-sensitive_polymers)
