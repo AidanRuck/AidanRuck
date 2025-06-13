@@ -2,6 +2,7 @@
 This repository was inspired by one of my professors, [Dr. Kevin Lu](https://github.com/kevinwlu), who has a similar repository where he learns something new every day, and updates it. His message stuck out to me so much, that I have decided to form my own repository, dedicated to the mindset of learning something new every day.
 
 ## Astronomy
+* [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
