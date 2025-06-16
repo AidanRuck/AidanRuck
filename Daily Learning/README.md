@@ -5,6 +5,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
+* [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 
