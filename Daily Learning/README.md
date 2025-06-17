@@ -3,6 +3,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Astronomy
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
+* [Galilean moons](https://en.wikipedia.org/wiki/Galilean_moons)
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
