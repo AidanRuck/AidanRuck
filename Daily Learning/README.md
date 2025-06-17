@@ -62,6 +62,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
 * [Vehicle-to-everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
+* [Zelinsky-Kummant gas mask](https://en.wikipedia.org/wiki/Zelinsky-Kummant_gas_mask)
 
 ## Theology
 * [Sikhism](https://en.wikipedia.org/wiki/Sikhism)
