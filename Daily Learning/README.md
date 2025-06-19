@@ -45,6 +45,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Technology
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology)
 * [Cryptographic hash function (CHF)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
 * [Denial-of-service attack (DoS Attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
