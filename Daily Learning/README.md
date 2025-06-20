@@ -45,12 +45,13 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Technology
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology)
 * [Cryptographic hash function (CHF)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
 * [Denial-of-service attack (DoS Attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
+* [Electromagnetic coil](https://en.wikipedia.org/wiki/Electromagnetic_coil)
+  * [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology) 
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
