@@ -44,6 +44,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Objectivism](https://en.wikipedia.org/wiki/Objectivism) (*See: Ayn Rand*)
 
 ## Technology
+* [Antiferromagnetism](https://en.wikipedia.org/wiki/Antiferromagnetism)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Cryptographic hash function (CHF)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
