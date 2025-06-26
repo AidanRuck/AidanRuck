@@ -59,6 +59,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
 * [Interactive voice response (IVR)](https://en.wikipedia.org/wiki/Interactive_voice_response)
+* [Lithium-ion battery](https://en.wikipedia.org/wiki/Lithium-ion_battery)
 * [Magnetic field](https://en.wikipedia.org/wiki/Magnetic_field)
 * [Market fragmentation](https://en.wikipedia.org/wiki/Market_fragmentation)
 * [Medium access control address (MAC address)](https://en.wikipedia.org/wiki/MAC_address)
