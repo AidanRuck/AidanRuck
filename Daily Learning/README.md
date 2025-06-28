@@ -53,6 +53,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Denial-of-service attack (DoS Attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
+* [Electric vehicle](https://en.wikipedia.org/wiki/Electric_vehicle)
 * [Electromagnetic coil](https://en.wikipedia.org/wiki/Electromagnetic_coil)
   * [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology) 
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
