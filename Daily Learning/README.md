@@ -37,7 +37,8 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
     * ["Who is John Galt?"](https://en.wikipedia.org/wiki/John_Galt)
 * [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac)
   * [*On the Road*](https://en.wikipedia.org/wiki/On_the_Road)
-    * [The Beat Generation](https://en.wikipedia.org/wiki/Beat_Generation)  
+    * [The Beat Generation](https://en.wikipedia.org/wiki/Beat_Generation)
+* [James Joyce](https://en.wikipedia.org/wiki/James_Joyce)
  
 ## Philosphy
 * [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
