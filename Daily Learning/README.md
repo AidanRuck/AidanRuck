@@ -39,6 +39,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [*On the Road*](https://en.wikipedia.org/wiki/On_the_Road)
     * [The Beat Generation](https://en.wikipedia.org/wiki/Beat_Generation)
 * [James Joyce](https://en.wikipedia.org/wiki/James_Joyce)
+  * [*Dubliners*](https://en.wikipedia.org/wiki/Dubliners)
  
 ## Philosphy
 * [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
