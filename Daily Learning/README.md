@@ -40,6 +40,8 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
     * [The Beat Generation](https://en.wikipedia.org/wiki/Beat_Generation)
 * [James Joyce](https://en.wikipedia.org/wiki/James_Joyce)
   * [*Dubliners*](https://en.wikipedia.org/wiki/Dubliners)
+  * [*Finnegan's Wake*](https://en.wikipedia.org/wiki/Finnegans_Wake)
+  * [*Ulysses*](https://en.wikipedia.org/wiki/Ulysses_(novel))
  
 ## Philosphy
 * [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
