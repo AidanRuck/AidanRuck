@@ -11,6 +11,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
+* [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 
