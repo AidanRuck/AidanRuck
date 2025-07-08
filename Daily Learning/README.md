@@ -3,6 +3,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 
 ## Astronomy
 * [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)
+  * [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri) 
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet)
 * [Galilean moons](https://en.wikipedia.org/wiki/Galilean_moons)
@@ -11,7 +12,6 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
-* [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 
