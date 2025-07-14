@@ -16,6 +16,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
+* [Scorpius-Centaurus association](https://en.wikipedia.org/wiki/Scorpius%E2%80%93Centaurus_association)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 
 ## Biology
