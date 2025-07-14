@@ -6,6 +6,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)
   * [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri) 
 * [Crux](https://en.wikipedia.org/wiki/Crux)
+  * [Acrux](https://en.wikipedia.org/wiki/Acrux)
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet)
 * [Galilean moons](https://en.wikipedia.org/wiki/Galilean_moons)
