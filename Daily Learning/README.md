@@ -68,6 +68,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Electromagnetic coil](https://en.wikipedia.org/wiki/Electromagnetic_coil)
   * [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology) 
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
+* [Hipparcos](https://en.wikipedia.org/wiki/Hipparcos)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
   * [Home automation](https://en.wikipedia.org/wiki/Home_automation)
 * [Interactive voice response (IVR)](https://en.wikipedia.org/wiki/Interactive_voice_response)
