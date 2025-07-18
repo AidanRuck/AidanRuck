@@ -14,11 +14,12 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
-* [NGC 2306](https://en.wikipedia.org/wiki/NGC_3206)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
 * [Scorpius-Centaurus association](https://en.wikipedia.org/wiki/Scorpius%E2%80%93Centaurus_association)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
+* [Ursa Major](https://en.wikipedia.org/wiki/Ursa_Major)
+  * [NGC 2306](https://en.wikipedia.org/wiki/NGC_3206)
 
 ## Biology
 * [pH-sensitive polymers](https://en.wikipedia.org/wiki/PH-sensitive_polymers)
