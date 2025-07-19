@@ -11,6 +11,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet)
 * [Galilean moons](https://en.wikipedia.org/wiki/Galilean_moons)
   * [Europa](https://en.wikipedia.org/wiki/Europa_(moon))
+  * [Ganymede](https://en.wikipedia.org/wiki/Ganymede_(moon))
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
