@@ -16,6 +16,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Ganymede](https://en.wikipedia.org/wiki/Ganymede_(moon))
   * [Io](https://en.wikipedia.org/wiki/Io_(moon))
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
+* [Kuiper Belt](https://en.wikipedia.org/wiki/Kuiper_belt)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
