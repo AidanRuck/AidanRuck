@@ -87,6 +87,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Message authentication code (MAC)](https://en.wikipedia.org/wiki/Message_authentication_code)
 * [Near-field communication (NFC)](https://en.wikipedia.org/wiki/Near-field_communication)
 * [Optical disc](https://en.wikipedia.org/wiki/Optical_disc)
+  * [DVD](https://en.wikipedia.org/wiki/DVD)
 * [Payment gateway](https://en.wikipedia.org/wiki/Payment_gateway)
 * [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [Radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification)
