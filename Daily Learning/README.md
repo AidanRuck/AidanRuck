@@ -70,6 +70,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
 * [Denial-of-service attack (DoS Attack)](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * [Digital control](https://en.wikipedia.org/wiki/Digital_control)
+* [Digital data](https://en.wikipedia.org/wiki/Digital_data)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Electric motor](https://en.wikipedia.org/wiki/Electric_motor)
 * [Electric vehicle](https://en.wikipedia.org/wiki/Electric_vehicle)
