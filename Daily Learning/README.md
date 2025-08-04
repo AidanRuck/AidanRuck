@@ -21,6 +21,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
+* [Nebula](https://en.wikipedia.org/wiki/Nebula)
 * [Planetary habitability](https://en.wikipedia.org/wiki/Planetary_habitability)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
 * [Scorpius-Centaurus association](https://en.wikipedia.org/wiki/Scorpius%E2%80%93Centaurus_association)
