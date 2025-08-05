@@ -2,6 +2,9 @@
 This repository was inspired by one of my professors, [Dr. Kevin Lu](https://github.com/kevinwlu), who has a similar repository where he learns something new every day, and updates it. His message stuck out to me so much, that I have decided to form my own repository, dedicated to the mindset of learning something new every day.
 
 ## Astronomy
+* [Accredtion disk](https://en.wikipedia.org/wiki/Accretion_disk)
+  * [Circumstellar disc](https://en.wikipedia.org/wiki/Circumstellar_disc)
+    * [Kuiper Belt](https://en.wikipedia.org/wiki/Kuiper_belt)
 * [Centaurus](https://en.wikipedia.org/wiki/Centaurus)
   * [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)
   * [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri) 
@@ -15,10 +18,8 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Europa](https://en.wikipedia.org/wiki/Europa_(moon))
   * [Ganymede](https://en.wikipedia.org/wiki/Ganymede_(moon))
   * [Io](https://en.wikipedia.org/wiki/Io_(moon))
+* [Interstellar medium](https://en.wikipedia.org/wiki/Interstellar_medium)
 * [KELT-24](https://en.wikipedia.org/wiki/KELT-24)
-* [Accredtion disk](https://en.wikipedia.org/wiki/Accretion_disk)
-  * [Circumstellar disc](https://en.wikipedia.org/wiki/Circumstellar_disc)
-    * [Kuiper Belt](https://en.wikipedia.org/wiki/Kuiper_belt)
 * [K2-18b](https://en.wikipedia.org/wiki/K2-18b)
 * [Lunar eclipse](https://en.wikipedia.org/wiki/Lunar_eclipse)
 * [Natural satellite](https://en.wikipedia.org/wiki/Natural_satellite)
