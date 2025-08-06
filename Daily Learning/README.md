@@ -13,6 +13,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
 * [Dwarf planet](https://en.wikipedia.org/wiki/Dwarf_planet)
   * [Pluto](https://en.wikipedia.org/wiki/Pluto)
+* [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
 * [Galilean moons](https://en.wikipedia.org/wiki/Galilean_moons)
   * [Callisto](https://en.wikipedia.org/wiki/Callisto_(moon))
   * [Europa](https://en.wikipedia.org/wiki/Europa_(moon))
