@@ -29,6 +29,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Protostar](https://en.wikipedia.org/wiki/Protostar)
 * [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn)
 * [Scorpius-Centaurus association](https://en.wikipedia.org/wiki/Scorpius%E2%80%93Centaurus_association)
+* [Self-gravitation](https://en.wikipedia.org/wiki/Self-gravitation)
 * [Solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse)
 * [Ursa Major](https://en.wikipedia.org/wiki/Ursa_Major)
   * [NGC 2306](https://en.wikipedia.org/wiki/NGC_3206)
