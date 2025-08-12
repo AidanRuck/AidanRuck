@@ -85,6 +85,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Coil winding technology](https://en.wikipedia.org/wiki/Coil_winding_technology)
 * [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
   * [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
+  * [Microwave](https://en.wikipedia.org/wiki/Microwave)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Hipparcos](https://en.wikipedia.org/wiki/Hipparcos)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
