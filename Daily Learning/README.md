@@ -86,6 +86,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
   * [Radio wave](https://en.wikipedia.org/wiki/Radio_wave)
   * [Microwave](https://en.wikipedia.org/wiki/Microwave)
+  * [Infrared](https://en.wikipedia.org/wiki/Infrared)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Hipparcos](https://en.wikipedia.org/wiki/Hipparcos)
 * [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
