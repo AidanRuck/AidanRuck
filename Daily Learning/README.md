@@ -6,6 +6,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [Circumstellar disc](https://en.wikipedia.org/wiki/Circumstellar_disc)
     * [Kuiper Belt](https://en.wikipedia.org/wiki/Kuiper_belt)
 * [Astronimical object](https://en.wikipedia.org/wiki/Astronomical_object)
+  * [Star cluster](https://en.wikipedia.org/wiki/Star_cluster)
 * [Centaurus](https://en.wikipedia.org/wiki/Centaurus)
   * [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)
   * [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri) 
