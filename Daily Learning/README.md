@@ -7,6 +7,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
     * [Kuiper Belt](https://en.wikipedia.org/wiki/Kuiper_belt)
 * [Astronimical object](https://en.wikipedia.org/wiki/Astronomical_object)
   * [Star cluster](https://en.wikipedia.org/wiki/Star_cluster)
+    * [Beehive Cluster](https://en.wikipedia.org/wiki/Beehive_Cluster)
 * [Centaurus](https://en.wikipedia.org/wiki/Centaurus)
   * [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)
   * [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri) 
