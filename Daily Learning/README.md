@@ -38,6 +38,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
   * [NGC 2306](https://en.wikipedia.org/wiki/NGC_3206)
 
 ## Biology
+* [Buff-tailed coronoet](https://en.wikipedia.org/wiki/Buff-tailed_coronet)
 * [Cell](https://en.wikipedia.org/wiki/Cell_(biology))
   * [Organelle](https://en.wikipedia.org/wiki/Organelle)
 * [pH-sensitive polymers](https://en.wikipedia.org/wiki/PH-sensitive_polymers)
