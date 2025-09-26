@@ -115,6 +115,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [Texture filtering](https://en.wikipedia.org/wiki/Texture_filtering)
 * [Texture mapping](https://en.wikipedia.org/wiki/Texture_mapping)
   * [UV mapping](https://en.wikipedia.org/wiki/UV_mapping)
+  * [Projection mapping](https://en.wikipedia.org/wiki/Projection_mapping)
 * [Vehicle-to-everything (V2X)](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 * [Wideband Global SATCOM](https://en.wikipedia.org/wiki/Wideband_Global_SATCOM)
 * [Zelinsky-Kummant gas mask](https://en.wikipedia.org/wiki/Zelinsky-Kummant_gas_mask)
