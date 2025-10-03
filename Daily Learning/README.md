@@ -52,6 +52,9 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 ## History
 * [African Diaspora](https://en.wikipedia.org/wiki/African_diaspora)
 
+## Language
+* [Portmanteau](https://en.wikipedia.org/wiki/Portmanteau)
+
 ## Learning
 * [Educational entertainment (edutainment)](https://en.wikipedia.org/wiki/Educational_entertainment)
 
