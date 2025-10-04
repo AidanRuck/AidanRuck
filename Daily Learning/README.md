@@ -53,6 +53,7 @@ This repository was inspired by one of my professors, [Dr. Kevin Lu](https://git
 * [African Diaspora](https://en.wikipedia.org/wiki/African_diaspora)
 
 ## Language
+* [Clipped compound](https://en.wikipedia.org/wiki/Clipped_compound)
 * [Portmanteau](https://en.wikipedia.org/wiki/Portmanteau)
 
 ## Learning
